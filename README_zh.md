@@ -1,4 +1,4 @@
-# 手势遥控器
+# BSP 3D Control
 
 [English](README.md) | 中文
 
