@@ -82,7 +82,7 @@ sudo python3 app.py
 然后在浏览器中打开 http://localhost:5050
 
 ## 演示
-▶ **[观看演示视频](assets/demo.mp4)**（约 60 秒）
+▶ **[观看演示视频](docs/demo.mp4)**（约 60 秒）
 
 ## 📮 问题反馈
 
