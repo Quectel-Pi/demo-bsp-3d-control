@@ -82,7 +82,7 @@ sudo python3 app.py
 Then open the url in the browser http://localhost:5050
 
 ## Demo
-▶ **[Watch the demo video](docs/demo.mp4)** (about 60 s)
+https://github.com/user-attachments/assets/e9471b07-bac5-4fa0-bbe2-1f94c9006a3a
 
 ## 📮 Reporting issues
 
